@@ -11,7 +11,7 @@
     border-radius: 20px;
     text-align: center;
     padding: 40px 35px;
-    background: linear-gradient(green,yellow);
+    background: linear-gradient(rgb(175, 164, 8),rgb(10, 83, 16));
 }
 .search{
     width: 100%;
